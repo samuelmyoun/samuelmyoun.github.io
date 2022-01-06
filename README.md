@@ -1,2 +1,2 @@
-# my-site
-My Personal Website
+# Samuel Youn's Personal Website
+## Mostly for Resume purposes
