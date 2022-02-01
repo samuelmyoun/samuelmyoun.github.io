@@ -1,2 +1,1 @@
-# Samuel Youn's Personal Website
-## Mostly for Resume purposes
+Samuel Youn's Website
